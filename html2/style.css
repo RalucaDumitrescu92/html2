@@ -1,0 +1,17 @@
+
+.container {
+  display: flex;
+}
+.container>div{
+  padding:10px;
+  text-align: center;
+  font-size: 1.5em;
+  color:blue;
+  border: 5px solid;
+  border-color: black;
+  border-width: thin;
+  flex-wrap: wrap;
+  flex-grow: 3;
+
+
+}
